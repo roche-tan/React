@@ -1,2 +1,2 @@
 # React
-Projects made during React Udemy course
+Projects made while learing React
