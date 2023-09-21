@@ -1,4 +1,4 @@
-Small calculator priject using React
+Small calculator project using React
 
 - useState hook
 - useReducer hook
